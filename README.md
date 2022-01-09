@@ -1,5 +1,6 @@
 # Api of products
 
 ## Dependencies
---- console
+``` console
 express
+```
