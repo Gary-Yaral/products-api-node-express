@@ -1,0 +1,21 @@
+{
+  "name": "express_practice",
+  "version": "1.0.0",
+  "description": "its only practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Gary Yaral",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
